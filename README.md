@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="https://github.com/taonix/Taonix/blob/main/taonix.css" />
+<link href="https://github.com/taonix/Taonix/blob/main/taonix.css" rel="stylesheet"></link>
 
 ### Hi everyone 👋
 
