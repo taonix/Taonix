@@ -2,7 +2,7 @@
 
 I'm Taonix, a java and web developer. Right now I am developing several projects. You can find them on the github profile of my company TaoTools. There, I develop many discord bots and websites.
 
-**Enterprise :** <br>
+**My enterprise :** <br>
 &nbsp;&nbsp;[<img width="30px" height="30px" src="https://avatars2.githubusercontent.com/u/68148666?s=88&v=4">][taotools]
 
 
